@@ -3,7 +3,7 @@
 ## I'm an IT student at STMIK LIKMI
 
 - 🌱 I’m currently learning everything 
-- ⚡ Fun fact: I love to draw and play video
+- ⚡ Fun fact: I love to draw and play video games
 
 ### Connect with me:
 
