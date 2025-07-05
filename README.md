@@ -1,3 +1,9 @@
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
+###
+
 <h1 align="center">Hi 👋, I'm Jevon Ivander Juandy</h1>
 <h3 align="center">Final-Year Software Engineering Student at STMIK LIKMI | Part-Time Backend Developer at PT. 4nesia Digital Solution (Brainys Project) | Aspiring Backend Developer | Data & AI/ML/DL Enthusiast</h3>
 
